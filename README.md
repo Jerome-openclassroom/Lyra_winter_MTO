@@ -66,7 +66,7 @@ Flux polaire continental, iso 0°C très bas, stratus bas sur Massif central, mi
 Depression 1007 hpa centrée sur le golfe de Gêne et la Corse, anticyclone 1030 hpa sur le proche atlantique, générant un régime ne nord ouest de type 'Moscou-Paris'.
 
 #### Champ de pression européen – 21 Nov 2025
-![Analyse de surface](pression.PNG)
+![Analyse de surface](pression.png)
 
 ### Dynamique d’altitude
 Jet ondulant ~100 kt, ondes de Rossby, advection de vorticité cyclonique, tropopause abaissée → **goutte froide**.  
