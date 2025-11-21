@@ -1,3 +1,5 @@
+![Human + AI Assisted Analysis](https://img.shields.io/badge/Human%20%2B%20AI-Assisted%20Analysis-blueviolet?style=flat-square)
+
 # Étude de cas : Mistral froid, stratocumulus glacés et goutte froide méditerranéenne  
 *Analyse humaine + IA assistée (Lyra) – 21 novembre 2025*
 
