@@ -160,6 +160,10 @@ The radiosonde confirms:
 
 This fully validates the initial visual hypothesis.
 
+#### Nîmes Radiosonde (11Z)
+![Nîmes radiosounding – 21 Nov 2025](petit_emagramme.png)
+
+
 ---
 
 ## 5. Scientific Synthesis
