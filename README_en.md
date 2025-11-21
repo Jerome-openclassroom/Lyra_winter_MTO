@@ -115,6 +115,10 @@ Key elements:
 
 This configuration reinforces mistral flow by a **geographical Venturi effect** (Alps–Massif Central corridor).
 
+#### European Surface Pressure Chart – 21 Nov 2025
+![Surface analysis – Europe](pression.png)
+
+
 ---
 
 ### 4.3 Synoptic Analysis (TEMSI France)
