@@ -71,6 +71,10 @@ ACCAS et Cb isolés sur mer chaude = **instabilité méditerranéenne**.
 ### Validation verticale
 Radiosondage : saturation vers 800 hPa (~6000 ft) à –10°C, inversion laminante, vent N en troposphère puis Ouest en stratosphère.
 
+#### Émagramme de Nîmes (11Z)
+![Radiosondage de Nîmes](petit_emagramme.png)
+
+
 ---
 
 ## 5. Arborescence du dépôt
