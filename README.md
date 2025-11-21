@@ -63,6 +63,7 @@ Stratocumulus glacés à basse altitude, sublimation de la fraction liquide, eff
 
 ### Synoptique
 Flux polaire continental, iso 0°C très bas, stratus bas sur Massif central, mistral renforcé par gradient et effet Venturi.
+
 Depression 1007 hpa centrée sur le golfe de Gêne et la Corse, anticyclone 1030 hpa sur le proche atlantique, générant un régime ne nord ouest de type 'Moscou-Paris'.
 
 #### Champ de pression européen – 21 Nov 2025
