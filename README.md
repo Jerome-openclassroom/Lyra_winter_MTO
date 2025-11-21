@@ -17,6 +17,11 @@ Ce README documente l’ensemble du raisonnement : observation → microphysique
 ## 1. Contexte du cas
 Observation à Avignon sous mistral fort (~30 kt) avec un ciel d’arrière perturbation présentant des stratocumulus d’aspect inhabituel : lissés, homogènes, légèrement cirriformes. Cette signature visuelle conduit à une hypothèse de nuages glacés laminés, rare pour cette région.
 
+<p align="center">
+  <img src="nuages.jpg" alt="Stratocumulus glacés sous mistral – Avignon 2025" width="70%">
+</p>
+
+
 ---
 
 ## 2. Données et fichiers du dépôt
