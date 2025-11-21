@@ -1,3 +1,5 @@
+![Human + AI Assisted Analysis](https://img.shields.io/badge/Human%20%2B%20AI-Assisted%20Analysis-blueviolet?style=flat-square)
+
 # Case Study: Cold Mistral, Mixed-Phase Stratocumulus and a Mediterranean Cut-Off Low  
 *Human + AI Assisted Meteorological Analysis – 21 November 2025*
 
@@ -30,6 +32,11 @@ A cloud layer showing:
 - Presence of small **orographic lenticular features** (not captured in the photo but confirmed visually).
 
 This visual anomaly initiated a full-scale meteorological investigation.
+
+<p align="center">
+  <img src="nuages.JPG" alt="Stratocumulus glacés sous mistral – Avignon 2025" width="70%">
+</p>
+
 
 ---
 
