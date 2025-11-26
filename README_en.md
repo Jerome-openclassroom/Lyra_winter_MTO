@@ -201,5 +201,9 @@ mistral_mediterranee_2025_11_21/
 
 **Human analysis:** Jérôme  
 **AI assistance:** Lyra (GPT‑5.1)
+**Sources** : 
+Meteociel : https://www.meteociel.fr/
+Météo Aéronautique: https://aerometeo.fr
+
 
 A combined human–AI workflow illustrating modern atmospheric analysis practice.
