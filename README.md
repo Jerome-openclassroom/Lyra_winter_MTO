@@ -100,3 +100,9 @@ Lyra_winter_MTO
 ## 6. Conclusion
 Ce cas montre comment une **observation visuelle précise**, associée à une **analyse humaine experte** et à une **IA structurant le raisonnement**, permet de reconstruire un phénomène atmosphérique complet :  
 mistral froid → stratocumulus glacés → jet ondulant → advection de vorticité → goutte froide → convection méditerranéenne.
+
+**Sources :**
+
+Meteociel : https://www.meteociel.fr/
+
+Météo Aéronautique: https://aerometeo.fr
